@@ -1,7 +1,7 @@
-# Math Swords VR
+# VR Math Game
 **Slash Your Way Through Math – Dual Sword VR Arcade!**
 
-![Math Swords VR](https://via.placeholder.com/1600x800/0d1117/00ff88?text=MATH+SWORDS+VR+%E2%9A%94%EF%B8%8F%E2%9A%94%EF%B8%8F)  
+
 *Fast-Paced • Educational • Addictively Fun*
 
 Two cubes. One correct answer. Two glowing swords.  
@@ -19,18 +19,6 @@ Only the math warriors survive.
 - Clean, modular & commented C# code  
 - Built for Quest 1/2/3/Pro & Pico – standalone Android XR  
 - Zero external packages – pure Unity
-
----
-
-## Gameplay Preview
-
-<div align="center">
-  <img src="/Screenshots/gameplay1.jpg" width="45%"/>
-  <img src="/Screenshots/gameplay2.jpg" width="45%"/>
-  <br><br>
-  <img src="/Screenshots/correct_explosion.jpg" width="45%"/>
-  <img src="/Screenshots/wrong_explosion.jpg" width="45%"/>
-</div>
 
 ---
 
@@ -55,7 +43,7 @@ Only the math warriors survive.
 ## Quick Start (Developers & Testers)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MathSwordsVR.git
+git clone https://github.com/alrrezz/VR-Math-Game
 ```
 Open in Unity Hub → Android platform → Build & Run directly to Quest!
 
@@ -85,6 +73,13 @@ Released under the **MIT License** – fork, modify, learn, publish!
 
 ---
 
+## Developer :
+
+Alireza Pahlevanzadeh
+GitHub: https://github.com/alrrezz
+
+---
+
 **Ready to master math with lightsabers?**  
 Give it a star if you love it!
 
@@ -92,8 +87,3 @@ Give it a star if you love it!
 
 Made with love, coffee and a lot of math in 2025
 ```
-
-## Developer :
-
-Alireza Pahlevanzadeh
-GitHub: https://github.com/alrrezz
