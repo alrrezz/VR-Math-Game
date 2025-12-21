@@ -85,5 +85,4 @@ Give it a star if you love it!
 
 #VREducation #MathGame #Unity3D #OculusQuest #IndieDev #EducationalGame #MadeWithUnity #VRArcade #LearnByPlaying
 
-Made with love, coffee and a lot of math in 2025
 ```
