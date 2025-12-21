@@ -61,7 +61,7 @@ Open in Unity Hub → Android platform → Build & Run directly to Quest!
 ---
 
 ## Credits
-Created with passion by **YOUR NAME**  
+Created with passion by **Alireza Pahlevanzadeh**  
 Sound effects: Zapsplat + Freesound (CC0)  
 Particles: Unity VFX Graph  
 Special thanks to the Unity XR community
