@@ -69,7 +69,6 @@ Special thanks to the Unity XR community
 ---
 
 ## License
-## License
 This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
 You are free to use, modify, and learn from this project for **non-commercial purposes only**.
